@@ -65,6 +65,18 @@
   - exits the DOS console
 * #### `md`
   - creates a new directory in the current location
+  **Output:**
   ```
   C:\Users\abhijit\Desktop>md dummy
+  ```
+* #### `move`
+  - moves files or directories between directories
+  **Output:** <br/>
+  from dir1 to dir2
+  ```
+  move C:\lists.txt c:\tp
+  ```
+  file to current dir
+  ```
+  move C:\lists.txt
   ```
