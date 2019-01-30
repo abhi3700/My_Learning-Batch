@@ -33,3 +33,29 @@
   C:\Users\abhijit\Desktop>cd
   C:\Users\abhijit\Desktop
   ```
+* #### 'cd'
+  - clears the screen
+  
+  **Output:**
+  ```
+  C:\Users\abhijit\Desktop>cls
+  ```
+* #### `copy`
+  - copy the directory
+* #### `del`
+  - delete the files, NOT directory
+* #### `dir`
+  - shows the list of contents of a directory
+* #### `date`
+  - 
+  **Output:**
+  ```
+  C:\Users\abhijit\Desktop>date
+  The current date is: 31-Jan-19
+  Enter the new date: (dd-mm-yy)
+  ```
+  Also, 
+  ```
+  C:\Users\abhijit\Desktop>echo %DATE%
+  31-Jan-19
+  ```
