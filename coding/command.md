@@ -47,7 +47,7 @@
 * #### `dir`
   - shows the list of contents of a directory
 * #### `date`
-  - 
+  - help to find the system date
   **Output:**
   ```
   C:\Users\abhijit\Desktop>date
@@ -58,4 +58,13 @@
   ```
   C:\Users\abhijit\Desktop>echo %DATE%
   31-Jan-19
+  ```
+* #### `echo`
+  - displays messages, or turns command echoing on or off
+* #### `exit`
+  - exits the DOS console
+* #### `md`
+  - creates a new directory in the current location
+  ```
+  C:\Users\abhijit\Desktop>md dummy
   ```
