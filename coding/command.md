@@ -80,3 +80,13 @@
   ```
   move C:\lists.txt
   ```
+* #### `pause`
+  to wait for the user to exit.
+  ```console
+  @ECHO OFF
+  pause
+  ```
+  **Output:**
+  ```console
+  Press any key to continue . . .
+  ```
